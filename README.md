@@ -2,6 +2,9 @@
 
 This is a simple spaceship shooter game built using HTML5 canvas and JavaScript.
 <img src="demo.gif" alt="Pingpong Game GIF 1" width="500" height="400">
+
+Try it in your browser live: https://spaceshooterjs.onrender.com
+
 ## Game Overview
 
 In this game, you control a spaceship and your objective is to shoot down enemy spaceships while avoiding collisions. The game features randomly spawning enemies with varying health points (HP) and a scoring system based on the number of enemies destroyed.
