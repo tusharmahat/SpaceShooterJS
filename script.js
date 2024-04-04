@@ -1,4 +1,3 @@
-
 // Game Variables
 let canvas, ctx;
 let spaceshipX = 380, spaceshipY = 500;
