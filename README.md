@@ -8,8 +8,8 @@ In this game, you control a spaceship and your objective is to shoot down enemy 
 
 ## How to Play
 
-- Use the left and right arrow keys to move your spaceship horizontally.
-- Press the spacebar to shoot bullets at enemies.
+- Use the `Arrow Left` and `Arrow Right` arrow keys to move your spaceship horizontally.
+- Press the `Spacebar` to shoot bullets at enemies.
 - Destroy enemies by shooting them with bullets.
 - Avoid colliding with enemy spaceships.
 - Your score increases for each enemy destroyed.
@@ -38,13 +38,9 @@ In this game, you control a spaceship and your objective is to shoot down enemy 
 
 ## Game Controls
 
-- Arrow Left: Move spaceship left
-- Arrow Right: Move spaceship right
-- Spacebar: Shoot bullets
-
-## Screenshots
-
-![Gameplay Screenshot](screenshots/gameplay.png)
+- `Arrow Left`: Move spaceship left
+- `Arrow Right`: Move spaceship right
+- `Spacebar`: Shoot bullets
 
 ## Author
 
